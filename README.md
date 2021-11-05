@@ -3,7 +3,7 @@
 Done by Divya Thirumurugan
 
 # Steps to Run
-npm install 
+npm install <br>
 npm run start
 
 # Steps to Build
